@@ -16,3 +16,4 @@
 1415. The k-th Lexicographical String of All Happy Strings of Length n https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/?envType=daily-question&envId=2025-02-19
 1980. Find Unique Binary String https://leetcode.com/problems/find-unique-binary-string/?envType=daily-question&envId=2025-02-20
 1261. Find Elements in a Contaminated Binary Tree https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/description/?envType=daily-question&envId=2025-02-21
+1028. Recover a Tree From Preorder Traversal https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/?envType=daily-question&envId=2025-02-22
