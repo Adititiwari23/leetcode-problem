@@ -23,3 +23,4 @@
 1749. Maximum Absolute Sum of Any Subarray https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/?envType=daily-question&envId=2025-02-26
 873. Length of Longest Fibonacci Subsequence https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/?envType=daily-question&envId=2025-02-27
 1092. Shortest Common Supersequence https://leetcode.com/problems/shortest-common-supersequence/?envType=daily-question&envId=2025-02-28
+1780. Check if Number is a Sum of Powers of Three https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/?envType=daily-question&envId=2025-03-04
