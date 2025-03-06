@@ -25,3 +25,4 @@
 1092. Shortest Common Supersequence https://leetcode.com/problems/shortest-common-supersequence/?envType=daily-question&envId=2025-02-28
 1780. Check if Number is a Sum of Powers of Three https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/?envType=daily-question&envId=2025-03-04
 2579. Count Total Number of Colored Cells https://leetcode.com/problems/count-total-number-of-colored-cells/?envType=daily-question&envId=2025-03-05
+2965. Find Missing and Repeated Values https://leetcode.com/problems/find-missing-and-repeated-values/description/?envType=daily-question&envId=2025-03-06
