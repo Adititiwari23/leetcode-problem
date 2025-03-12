@@ -30,3 +30,4 @@
 2379. Minimum Recolors to Get K Consecutive Black Blocks https://leetcode.com/problems/alternating-groups-ii/description/?envType=daily-question&envId=2025-03-09
 3208. Alternating Groups II https://leetcode.com/problems/alternating-groups-ii/description/?envType=daily-question&envId=2025-03-09
 3306. Count of Substrings Containing Every Vowel and K Consonants II https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/?envType=daily-question&envId=2025-03-10
+1358. Number of Substrings Containing All Three Characters https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/?envType=daily-question&envId=2025-03-11
