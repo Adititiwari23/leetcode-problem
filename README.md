@@ -33,3 +33,4 @@
 1358. Number of Substrings Containing All Three Characters https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/?envType=daily-question&envId=2025-03-11
 2529. Maximum Count of Positive Integer and Negative Integer https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/?envType=daily-question&envId=2025-03-12
 3356. Zero Array Transformation II https://leetcode.com/problems/zero-array-transformation-ii/description/?envType=daily-question&envId=2025-03-13
+2226. Maximum Candies Allocated to K Children https://leetcode.com/problems/maximum-candies-allocated-to-k-children/?envType=daily-question&envId=2025-03-14
