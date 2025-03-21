@@ -1,0 +1,28 @@
+class Solution:
+    def findAllRecipes(self, recipes: List[str], ingredients: List[List[str]], supplies: List[str]) -> List[str]:
+        supplies = set(supplies)
+        graph = defaultdict(list)
+        in_degrees = defaultdict(int)
+        # model the problem using a graph
+        data = zip(recipes, ingredients)
+        for recipe, ingredients in data:
+            missing_ingredients = set(ingredients).difference(supplies)
+            for missing_ingredient in missing_ingredients:
+                graph[missing_ingredient].append(recipe)
+            in_degrees[recipe] += len(missing_ingredients)
+
+        queue = deque([r for r in in_degrees if in_degrees[r] == 0])
+        ans = []
+        print(graph)
+        while queue:
+            recipe = queue.popleft()
+            ans.append(recipe)
+
+            if recipe in graph:
+                for u in graph[recipe]:
+                    in_degrees[u] -= 1
+                    if in_degrees[u] == 0:
+                        queue.append(u)
+        
+        return ans
+        
