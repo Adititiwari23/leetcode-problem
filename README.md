@@ -43,3 +43,4 @@
 2115. Find All Possible Recipes from Given Supplies https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/description/?envType=daily-question&envId=2025-03-21
 2685. Count the Number of Complete Components https://leetcode.com/problems/count-the-number-of-complete-components/description/?envType=daily-question&envId=2025-03-22
 1976. Number of Ways to Arrive at Destination https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/?envType=daily-question&envId=2025-03-23
+3169. Count Days Without Meetings https://leetcode.com/problems/count-days-without-meetings/description/?envType=daily-question&envId=2025-03-24
