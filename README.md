@@ -50,3 +50,4 @@
 2503. Maximum Number of Points From Grid Queries https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/description/?envType=daily-question&envId=2025-03-28
 2818. Apply Operations to Maximize Score https://leetcode.com/problems/apply-operations-to-maximize-score/description/?envType=daily-question&envId=2025-03-29
 763. Partition Labels https://leetcode.com/problems/partition-labels/description/?envType=daily-question&envId=2025-03-30
+2551. Put Marbles in Bags https://leetcode.com/problems/put-marbles-in-bags/description/?envType=daily-question&envId=2025-03-31
