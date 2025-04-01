@@ -51,3 +51,4 @@
 2818. Apply Operations to Maximize Score https://leetcode.com/problems/apply-operations-to-maximize-score/description/?envType=daily-question&envId=2025-03-29
 763. Partition Labels https://leetcode.com/problems/partition-labels/description/?envType=daily-question&envId=2025-03-30
 2551. Put Marbles in Bags https://leetcode.com/problems/put-marbles-in-bags/description/?envType=daily-question&envId=2025-03-31
+2140. Solving Questions With Brainpower https://leetcode.com/problems/solving-questions-with-brainpower/?envType=daily-question&envId=2025-04-01
