@@ -53,3 +53,4 @@
 2551. Put Marbles in Bags https://leetcode.com/problems/put-marbles-in-bags/description/?envType=daily-question&envId=2025-03-31
 2140. Solving Questions With Brainpower https://leetcode.com/problems/solving-questions-with-brainpower/?envType=daily-question&envId=2025-04-01
 2873. Maximum Value of an Ordered Triplet I https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/description/?envType=daily-question&envId=2025-04-02
+2874. Maximum Value of an Ordered Triplet II https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/?envType=daily-question&envId=2025-04-03
