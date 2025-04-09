@@ -1,0 +1,5 @@
+class Solution:
+    def minOperations(self, nums: List[int], k: int) -> int:
+        if any(i<k for i in nums): return -1
+        c=set(nums)
+        return len(c)-int(min(c)==k)
