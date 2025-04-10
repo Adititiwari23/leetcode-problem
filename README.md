@@ -57,3 +57,4 @@
 1123. Lowest Common Ancestor of Deepest Leaves https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/?envType=daily-question&envId=2025-04-04
 1863. Sum of All Subset XOR Totals https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/?envType=daily-question&envId=2025-04-05
 3375. Minimum Operations to Make Array Values Equal to K https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/description/?envType=daily-question&envId=2025-04-09
+2999. Count the Number of Powerful Integers https://leetcode.com/problems/count-the-number-of-powerful-integers/description/?envType=daily-question&envId=2025-04-10
