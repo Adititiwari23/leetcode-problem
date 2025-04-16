@@ -1,0 +1,21 @@
+class Solution:
+    def countGood(self, nums: List[int], k: int) -> int:
+        pairs = 0
+        left, right = 0, 0
+        n = len(nums)
+        good_subarrays = 0
+        freq = defaultdict(int)
+
+        while(right<n):
+            pairs  += freq[nums[right]]
+            freq[nums[right]] +=1
+
+            while pairs >= k: # shrink
+                good_subarrays += (n - right)
+                freq[nums[left]] -=1
+                pairs  -= freq[nums[left]]
+                left += 1
+
+            right +=1
+            
+        return good_subarrays
