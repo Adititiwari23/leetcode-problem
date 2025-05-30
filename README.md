@@ -1,4 +1,4 @@
-#leetcode-problem
+ #leetcode-problem
 1. Two Sum https://leetcode.com/problems/two-sum/description/?envType=problem-list-v2&envId=array
 3160. Find the Number of Distinct Colors Among the Balls https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/?envType=daily-question&envId=2025-02-07
 1790. Check if One String Swap Can Make Strings Equal https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/?envType=daily-question&envId=2025-02-05
@@ -64,3 +64,4 @@
 2537. Count the Number of Good Subarrays https://leetcode.com/problems/count-the-number-of-good-subarrays/description/?envType=daily-question&envId=2025-04-16
 2176. Count Equal and Divisible Pairs in an Array https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/description/?envType=daily-question&envId=2025-04-17
 38. Count and Say https://leetcode.com/problems/count-and-say/description/?envType=daily-question&envId=2025-04-18
+2359. Find Closest Node to Given Two Nodes https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/?envType=daily-question&envId=2025-05-30
