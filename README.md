@@ -65,3 +65,4 @@
 2176. Count Equal and Divisible Pairs in an Array https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/description/?envType=daily-question&envId=2025-04-17
 38. Count and Say https://leetcode.com/problems/count-and-say/description/?envType=daily-question&envId=2025-04-18
 2359. Find Closest Node to Given Two Nodes https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/?envType=daily-question&envId=2025-05-30
+909. Snakes and Ladders https://leetcode.com/problems/snakes-and-ladders/description/?envType=daily-question&envId=2025-05-31
