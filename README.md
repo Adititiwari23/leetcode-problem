@@ -67,3 +67,4 @@
 2359. Find Closest Node to Given Two Nodes https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/?envType=daily-question&envId=2025-05-30
 909. Snakes and Ladders https://leetcode.com/problems/snakes-and-ladders/description/?envType=daily-question&envId=2025-05-31
 135. Candy https://leetcode.com/problems/candy/description/?envType=daily-question&envId=2025-06-02
+2434. Using a Robot to Print the Lexicographically Smallest String https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/description/?envType=daily-question&envId=2025-06-06
